@@ -1,6 +1,6 @@
-# Review & Critic
+# Review Critic
 
-Review & Critic helps you edit and review notes collaboratively inside Obsidian without leaving Markdown.
+Review Critic helps you edit and review notes collaboratively inside Obsidian without leaving Markdown.
 Use quick commands to mark additions, deletions, replacements, highlights, and inline comments, then review everything with clear visual rendering in Reading View and Live Preview.
 It is designed for drafting, peer review, and content polishing workflows where you want tracked-style edits while keeping your notes plain-text and portable.
 
@@ -81,7 +81,7 @@ It is designed for drafting, peer review, and content polishing workflows where 
 
 ## Compatibility
 
-- `minAppVersion`: `1.5.0`
+- `minAppVersion`: `1.7.2`
 - `isDesktopOnly`: `false` (desktop and mobile supported)
 
 ## Installation
@@ -89,7 +89,7 @@ It is designed for drafting, peer review, and content polishing workflows where 
 After acceptance into Obsidian Community Plugins:
 
 1. Open `Settings -> Community plugins -> Browse`.
-2. Search for `Review & Critic`.
+2. Search for `Review Critic`.
 3. Install and enable.
 
 Before acceptance (manual install from a GitHub release):
@@ -107,7 +107,7 @@ Before acceptance (manual install from a GitHub release):
 7. Copy the three downloaded files into that folder.
 8. In Obsidian, open `Settings -> Community plugins`.
 9. If needed, turn off `Restricted mode`.
-10. Find `Review & Critic` in the installed plugins list and enable it.
+10. Find `Review Critic` in the installed plugins list and enable it.
 11. Reload Obsidian if the plugin does not appear immediately.
 
 Example Windows path:
